@@ -1,5 +1,5 @@
 # RomanDominguez.github.io
-<img src= "bioPic.jpg" width='1500'/>
+<img src= "bioPic1.jpg" width='1500'/>
 # Buen dia a tod@s 👋
 #👋 Hola, mi nombre es: 🆁🅾🅼🅰🅽   🅳🅾🅼🅸🅽🅶🆄🅴🆉   🅰🅲🅾🆂🆃🅰
 # , soy Ingeniero graduado en la carrera de Ingenieria en Robotica Industrial en la escuela ESIME Azcapotzalco, mi actual trabajo es como operador de Pruebas Geotecnicas de Penetracion de Cono (CPT) para instalacion de estructuras para granjas eolicas, y durante 8 años me dedique a la operacion de Vehiculos de Operacion Remota (ROV) ambos trabajos realizados Costa Fuera. Durante mi desarrollo profesional he trabajado en conjunto con diversos equipos conectados a la red y softwares de control, 
