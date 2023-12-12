@@ -1,7 +1,11 @@
 # RomanDominguez.github.io
 <img src= "bioPic1.JPG" width='300'/>
+##PROYECTOS:
+##PacMen Excercise Repo
 <a href="https://github.com/RomanDominguez/PACMEN-EXCERCISE">PacMen Excercise </a>
+##Eyes Excercise Repo
 <a href="https://github.com/RomanDominguez/EYE-EXCERCISE">Eyes Excercise </a>
+##Bus Tracker Excercise Repo
 <a href="https://github.com/RomanDominguez/REAL-TIME-BUS-TRACKER">Bus Tracker Excercise </a>
 # Buen dia a tod@s 👋
 #👋 Hola, mi nombre es: 🆁🅾🅼🅰🅽   🅳🅾🅼🅸🅽🅶🆄🅴🆉   🅰🅲🅾🆂🆃🅰
